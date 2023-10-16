@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\AsincroniaPractica\AsincroniaPractica\obj\Debug\net6.0\AsincroniaPractica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\AsincroniaPractica\AsincroniaPractica\obj\Debug\net6.0\AsincroniaPractica.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\AsincroniaPractica\AsincroniaPractica\obj\Debug\net6.0\AsincroniaPractica.AssemblyInfo.cs
+C:\Users\Dell\source\repos\AsincroniaPractica\AsincroniaPractica\obj\Debug\net6.0\AsincroniaPractica.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\AsincroniaPractica\AsincroniaPractica\bin\Debug\net6.0\AsincroniaPractica.exe
+C:\Users\Dell\source\repos\AsincroniaPractica\AsincroniaPractica\bin\Debug\net6.0\AsincroniaPractica.deps.json
+C:\Users\Dell\source\repos\AsincroniaPractica\AsincroniaPractica\bin\Debug\net6.0\AsincroniaPractica.runtimeconfig.json
+C:\Users\Dell\source\repos\AsincroniaPractica\AsincroniaPractica\bin\Debug\net6.0\AsincroniaPractica.dll
+C:\Users\Dell\source\repos\AsincroniaPractica\AsincroniaPractica\bin\Debug\net6.0\AsincroniaPractica.pdb
+C:\Users\Dell\source\repos\AsincroniaPractica\AsincroniaPractica\obj\Debug\net6.0\AsincroniaPractica.dll
+C:\Users\Dell\source\repos\AsincroniaPractica\AsincroniaPractica\obj\Debug\net6.0\refint\AsincroniaPractica.dll
+C:\Users\Dell\source\repos\AsincroniaPractica\AsincroniaPractica\obj\Debug\net6.0\AsincroniaPractica.pdb
+C:\Users\Dell\source\repos\AsincroniaPractica\AsincroniaPractica\obj\Debug\net6.0\AsincroniaPractica.genruntimeconfig.cache
+C:\Users\Dell\source\repos\AsincroniaPractica\AsincroniaPractica\obj\Debug\net6.0\ref\AsincroniaPractica.dll
